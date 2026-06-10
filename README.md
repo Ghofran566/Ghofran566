@@ -3,6 +3,9 @@
 
 Welcome to my profile. This README is a work in progress and does not yet reflect the full scope of my previous work or the standard of the account I formerly maintained. Below, I would like to transparently address the status of my previous presence on this platform.
 
+
+**Github didn't give me any of my data upon suspension. I will try to recover my repos to put on this profile**
+
 ---
 
 ## 📢 Statement Regarding Previous Account Suspension
