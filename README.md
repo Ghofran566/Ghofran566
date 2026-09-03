@@ -3,24 +3,9 @@
 
 Welcome to my profile. This README is a work in progress and does not yet reflect the full scope of my previous work or the standard of the account I formerly maintained. Below, I would like to transparently address the status of my previous presence on this platform.
 
-
 **Github didn't give me any of my data upon suspension. I will try to recover my repos to put on this profile**
 
----
-
-## 📢 Statement Regarding Previous Account Suspension
-
-My primary GitHub account, along with an organization I owned, was permanently suspended due to an unintentional violation of the GitHub Actions Terms of Service. I want to formally apologize to the GitHub team and the community for this mistake. 
-
-To provide context, developers operating within Iran face severe, volatile internet restrictions, often limiting access to standard global networks and isolating us within local internet infrastructure. During a period of restricted connectivity, many users—including myself and an estimated 5000 other local accounts—utilized GitHub Actions without fully understanding the platform's fair-use boundaries, purely as a means to experiment and maintain our development workflows. This was done out of a desire to learn and build, with absolutely no malicious intent. 
-
-While I deeply regret this oversight, the permanent suspension without prior warning or data export options has been incredibly challenging. Losing access to years of personal repositories, commit histories, and the ability to reclaim my original username or organization handle has significantly impacted my momentum as a developer. 
-
-> **A Note to the GitHub Team:** I sincerely apologize for the policy infraction. I am fully committed to strict compliance moving forward. If complete reinstatement is not possible, I respectfully request that GitHub consider releasing my data or clearing my associated emails and handles so they may be properly reused. I hope that past unintentional mistakes under restrictive local conditions do not permanently bar an passionate developer from contributing to the global open-source community.
-
-This profile represents a fresh start, built entirely on standard, compliant development practices.
-
----
+[![Discord Presence](https://lanyard.cnrad.dev/api/1541723696413020283?theme=dark&bg=000000&animated=true&borderRadius=30px&showDisplayName=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1541723696413020283)
 
 ## 🛠️ Technologies & Languages
 
