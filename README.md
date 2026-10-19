@@ -30,7 +30,6 @@ Welcome to my profile. This README is a work in progress and does not yet reflec
 
 I am always open to collaborating on interesting projects or discussing software engineering. Feel free to review my qualifications or reach out through any of the channels below:
 
-* **📄 Resume:** [View My Resume](https://drive.google.com/file/d/1iOytyZGIbZq-_ZUwQpDRNoCl2YhL4JzO/view?usp=sharing)
 * **🌐 Portfolio:** [ghofran565.ir](https://ghofran565.ir/)
 * **💼 LinkedIn:** [linkedin.com/in/ghofran565](https://www.linkedin.com/in/ghofran565)
 * **📧 Email:** mhg4660@gmail.com
